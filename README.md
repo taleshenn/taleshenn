@@ -1,4 +1,5 @@
-- 👋 Hi, my name is @taleshenn , I’m a 47 yo Brazilian learning a new skill 
+- 👋 Hi, my name is @taleshenn,
+- 🌱 I’m a 47 yo Brazilian learning a new skill 
 - 👀 I’m interested in html, css, javascript, python...
 - 🌱 I’m currently learning html, css, soon javascript.
 - 💞️ I’m looking to a mentor...can I be your mentee?
