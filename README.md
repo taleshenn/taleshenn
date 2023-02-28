@@ -15,4 +15,5 @@
     with daily 3 hour live classes.
     It is a good way to practice collaborative learning and develop new soft skills and build connections.</p>
 <p> The course start was 30/01/2023 and will be concluded at 20/10/2023</p>
+<p><a href="https://github.com/taleshenn/Fullstack-Development-Course"> <b> Here you will find the exercises repositories</b> </a>
 </div>
