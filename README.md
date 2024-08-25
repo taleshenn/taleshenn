@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
 <img align="right" height="590em" src="./side-cover.jpg"/>
+  <br>
 <h4> Graphic Designer & Retoucher | Aspiring Web Developer </h4>
 
 - 💬 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
