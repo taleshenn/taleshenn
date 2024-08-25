@@ -2,7 +2,7 @@
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h2>
 <h3 align="left"> Graphic Designer & Retoucher<br>
 Aspiring Web Developer </h3>
-<p>
+<p align="left">
 - 🔥 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
   My [Retouch Portfolio](https://taleshenn.com.br/) in case you are curious.
 
