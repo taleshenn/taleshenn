@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
-<img align="right" width="320px" src="./side-cover.jpg"/>
+<img align="right" height="590em" src="./side-cover.jpg"/>
 <br>
 <br>
 <h3> Graphic Designer & Retoucher | Aspiring Web Developer </h3>
