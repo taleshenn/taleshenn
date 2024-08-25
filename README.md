@@ -24,7 +24,7 @@
 @media screen and (max-width: 768px) {
   img[src="./side-cover.jpg"] {
     height: auto;
-    max-width: 100%;
+    max-width: 60%;
   }
 }
 </style>
