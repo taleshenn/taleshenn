@@ -4,8 +4,8 @@
 Aspiring Web Developer </h2>
 
 <img align="right" height="490em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
+- 
  <br>
-
 - 🔥 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
   My [Retouch Portfolio](https://taleshenn.com.br/) in case you are curious.
 
