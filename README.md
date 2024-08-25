@@ -1,8 +1,8 @@
 <img align="right" height="590em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h2>
 <h3 align="left"> Graphic Designer & Retoucher<br>
 Aspiring Web Developer </h3>
-
+<p>
 - 🔥 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
   My [Retouch Portfolio](https://taleshenn.com.br/) in case you are curious.
 
@@ -16,6 +16,6 @@ Aspiring Web Developer </h3>
   ⚡**Product and People Photographer, High end Retoucher**
   <br>
 - ▶️ A fun fact? I used to make [YouTube videos](https://youtube.com/taleshenn) teaching **image retouching**.
-
+</p>
 <h4 align="left">Contact</h4>
 - How to reach me? contato@taleshenn.com.br
