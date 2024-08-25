@@ -2,7 +2,7 @@
 
 <img align="right" height="490em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
 
-<h3 align="left"> Graphic Designer & Retoucher<br>
+<h3 align="left"> <br>Graphic Designer & Retoucher<br>
 Aspiring Web Developer </h3>
 
 - 🔥 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
