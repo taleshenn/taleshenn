@@ -5,7 +5,7 @@
 - 💬 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
   My [Retouch Portfolio](https://taleshenn.com.br/) in case you are curious.
 
-- 🔥 Yes, I am expanding skills into Web development ♥.
+- 🔥 Yes, I am expanding skills into Web development ♥.<br>
   While still in the learning process, **I'm already able** to build small front-end projects emphasizing UI and pure HTML and CSS.
 
 - 🔭 Do you have an opportunity for me?<br>Trust me, I possess a wide range of skills. Don't let my status as a programming learner mislead you. <br>
