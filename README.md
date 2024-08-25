@@ -21,7 +21,7 @@
 - How to reach me? contato@taleshenn.com.br
 
 <style>
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1960px) {
   img[src="./side-cover.jpg"] {
     height: auto;
     max-width: 320px;
