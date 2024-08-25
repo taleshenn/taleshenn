@@ -1,7 +1,7 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h2>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
 
-<h3 align="left">Graphic Designer & Retoucher<br>
-Aspiring Web Developer </h3>
+<h2 align="left">A Graphic Designer & Retoucher
+Aspiring Web Developer </h2>
 
 <img align="right" height="490em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
  <br>
@@ -20,5 +20,5 @@ Aspiring Web Developer </h3>
   <br>
 - ▶️ A fun fact? I used to make [YouTube videos](https://youtube.com/taleshenn) teaching **image retouching**.
 
-<h4 align="left">Contact</h4>
+<h3 align="left">Contact</h3>
 - How to reach me? contato@taleshenn.com.br
