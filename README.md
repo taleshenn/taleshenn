@@ -1,6 +1,6 @@
 <img align="right" height="590em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
-<h3> Graphic Designer & Retoucher<br>
+<h3 align="left"> Graphic Designer & Retoucher<br>
 Aspiring Web Developer </h3>
 
 - 🔥 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
@@ -17,6 +17,5 @@ Aspiring Web Developer </h3>
   <br>
 - ▶️ A fun fact? I used to make [YouTube videos](https://youtube.com/taleshenn) teaching **image retouching**.
 
-## Contact
-
+<h4 align="left">Contact</h4>
 - How to reach me? contato@taleshenn.com.br
