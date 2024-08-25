@@ -19,12 +19,3 @@
 - ▶️ Fun fact: I used to make [YouTube videos](https://youtube.com/taleshenn) about **image retouching**.
 
 - How to reach me? contato@taleshenn.com.br
-
-<style>
-@media screen and (max-width: 768px) {
-  img[src="./side-cover.jpg"] {
-    height: auto;
-    max-width: 100%;
-  }
-}
-</style>
