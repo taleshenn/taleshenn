@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
-<img align="right" src="./side-cover.jpg"/>
+<img align="right" width="240px" src="./side-cover.jpg"/>
 <br>
 <br>
 <h3> Graphic Designer & Retoucher | Aspiring Web Developer </h3>
@@ -19,14 +19,3 @@
 - ▶️ Fun fact: I used to make [YouTube videos](https://youtube.com/taleshenn) about **image retouching**.
 
 - How to reach me? contato@taleshenn.com.br
-
-<style>
-@media screen and (max-width: 1960px) {
-  img[src="./side-cover.jpg"] {
-    height: auto;
-    max-width: 320px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-  }
-}
-</style>
