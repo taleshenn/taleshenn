@@ -1,19 +1,18 @@
-- 👋 Hi, my name is @taleshenn,
-- 🌱 I’m a 47 yo Brazilian learning a new skill
-- 👀 I’m interested in html, css, javascript, python...
-- 🌱 I’m currently learning html, css and javascript.
-- 💞️ I’m looking to a mentor...can I be your mentee?
-- 📫 How to reach me taleshenn@gmail.com
-<br>
-<h2>Current studying FullStack Web Developer on SENAI [React + Node]</h2>
-<h3>The Fullstack Course</h3>
-<p>This course is taught by the <a href="https://lab365.tech/"></a><b>Lab365</b> in partnership with <a
-        href="https://sc.senai.br/">SENAI</a>, <a href="https://www.sebrae-sc.com.br/">SEBRAE</a>, <a
-        href="https://www.acate.com.br/">ACATE</a>, City Hall of Florianopolis,
-    among several technology partner companies.</p>
-<p>This course is intended to prepare students like me to work in the field of technology. It is a 900h online course
-    with daily 3 hour live classes.
-    It is a good way to practice collaborative learning and develop new soft skills and build connections.</p>
-<p> The course start was 30/01/2023 and will be concluded at 20/10/2023</p>
-<p><a href="https://github.com/taleshenn/Fullstack-Development-Course"> <b> Here you will find the exercises repositories</b> </a>
-</div>
+<img align="right" height="590em" src="./side-cover.jpg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Tales Henn</h1>
+<h4> Graphic Designer & Retoucher | Aspiring Web Developer </h4>
+
+- 💬 I'm currently working as a **freelance retoucher and graphic designer** while studying programming. <br>
+  My [Retouch Portfolio](https://taleshenn.com.br/) in case you are curious.
+
+- 🔥 Yes, I am expanding skills into Web development ♥.
+  While still in the learning process, **I'm already able** to build small front-end projects emphasizing UI and pure HTML and CSS.
+
+- 🔭 Do you have an opportunity for me?<br>Trust me, I possess a wide range of skills. Don't let my status as a programming learner mislead you. <br>
+  ⚡**Photoshop, Illustrator, In Design Lightroom, Adobe Express, Premiere Pro**
+  <br>
+  ⚡**Product and People Photographer, High end Retoucher**
+  <br>
+- ▶️ Fun fact: I used to make [YouTube videos](https://youtube.com/taleshenn) about **image retouching**.
+
+- 📫 How to reach me? contato@taleshenn.com.br
