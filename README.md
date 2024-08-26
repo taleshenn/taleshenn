@@ -3,7 +3,7 @@
 <h2 align="left">Designer Gráfico & Retoucher <br>
 Desenvolvedor Web (em formação)</h2>
 
-<img align="right" height="490em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
+<img align="right" height="520em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
 
 - 📷 Atualmente trabalho como **Retoucher e Designer Gráfico** freelancer enquanto estudo programação. <br>
   Meu [Portfólio de Retoque](https://taleshenn.com.br/) caso você esteja curioso.
