@@ -1,25 +1,68 @@
-<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou Tales Henn</h1>
+<h1 align="center">Tales Henn</h1>
 
-<h2 align="left">Designer Gráfico & Retoucher <br>
-Desenvolvedor Web (em formação)</h2>
+<p align="center">
+  <strong>Design, conteúdo e tecnologia transformados em experiências que comunicam.</strong>
+</p>
 
-<img align="right" height="520em" style="padding-bottom: 20px;" src="./side-cover.jpg"/>
+<p align="center">
+  <a href="https://taleshenn.com.br/">Marketing</a> •
+  <a href="https://retouch.taleshenn.com.br/">Retouch</a> •
+  <a href="https://ensaios.taleshenn.com.br/">Fotografia</a> •
+  <a href="https://www.behance.net/taleshenn">Design</a>
+</p>
 
-- 📷 Atualmente trabalho como **Retoucher e Designer Gráfico** freelancer enquanto estudo programação. <br>
-  ➡️ Meu [Portfólio de Retoque](https://taleshenn.com.br/) caso você esteja curioso.
+<img align="right" width="270" src="./side-cover.jpg" alt="Learning, growing, thriving, always">
 
-- ‍🚀 **Sim, estou expandindo minhas habilidades para desenvolvimento web.**<br>
-  Mesmo estando no meio da minha jornada de aprendizado, **já sou capaz** de construir projetos front-end com foco em UI utilizando HTML e CSS puro com uma pitada de Javascript. <br>
-  Esses projetos já fazem parte das soluções que entrego no meu trabalho como designer.
+## Sobre mim
 
-- 🧑‍💼**Tem alguma oportunidade para mim?**<br>
-    Acredite, eu possuo um amplo leque de habilidades adquiridas ao longo dos anos em vários setores. Não deixe meu status de aprendiz de programação te enganar. Veja algumas a seguir:<br>
-    ⚡**Photoshop, Illustrator, In Design, Lightroom, Adobe Express, Premiere Pro**
-    <br>
-    ⚡**Fotógrafo de Produtos e Pessoas, Retoucher High End**
+Sou designer gráfico, diretor de arte e web designer, com experiência em fotografia comercial e pós-produção de imagens. Uso HTML, CSS e JavaScript para transformar projetos visuais em sites responsivos e publicados.
 
-- ▶️ Um fato divertido? Eu costumava fazer [vídeos no YouTube](https://youtube.com/taleshenn) ensinando **edição de imagens**.
+Atualmente também exploro inteligência artificial, automação e integrações para organizar a produção de conteúdo e desenvolver ferramentas para meus próprios processos.
 
-<h2 align="left">📩 Contato</h2>
+Este GitHub reúne projetos profissionais, experiências autorais e estudos que conectam design, comunicação e tecnologia. Na Tales Henn Consultoria, aplico essa experiência na construção da presença digital de profissionais e empresas.
 
-- Como entrar em contato comigo? [Mande um e-mail](mailto:contato@taleshenn.com.br)
+## O que eu faço
+
+- **Design e direção visual:** identidades, peças digitais e experiências de marca.
+- **Fotografia e retoque:** produção e tratamento de imagens de produtos e pessoas.
+- **Conteúdo:** transformação de conhecimento em comunicação clara e visual.
+- **Experiências digitais:** interfaces e páginas responsivas com foco em apresentação e usabilidade.
+- **IA e automação:** experimentação com ferramentas e integrações aplicadas a processos criativos.
+
+## Ferramentas e tecnologias
+
+**Criação visual**<br>
+Photoshop • Illustrator • InDesign • Lightroom • Premiere Pro • Figma • Canva • Affinity
+
+**Desenvolvimento web**<br>
+HTML • CSS • JavaScript • Git • GitHub • Vercel
+
+**Processos atuais**<br>
+Inteligência artificial • Automação • Gestão e estruturação de conteúdo
+
+<br clear="right">
+
+## Portfólio ao vivo
+
+Projetos profissionais que podem ser acessados diretamente na web.
+
+| Projeto | Aplicação | Acesso |
+| --- | --- | --- |
+| Residencial INSPIRE | Website de apresentação para empreendimento imobiliário. | [Visitar site](https://residencialinspire.com.br/) |
+| Letícia Carpes | Website profissional para fisioterapia especializada em cirurgias plásticas. | [Visitar site](https://www.leticiacarpes.com.br/) |
+| Essenza Rinascita | Website profissional. | [Visitar site](http://essenzarinascita.com.br/) |
+
+## Projetos selecionados
+
+| Projeto e código | Ver online | O que ele demonstra |
+| --- | --- | --- |
+| [DevDesigner, estudo de portfólio](https://github.com/taleshenn/devSignerPorfolio) | [Abrir projeto](https://designer-dev-profile.vercel.app/) | Estudo de integração entre identidade visual, UI e desenvolvimento responsivo com HTML, CSS e JavaScript. |
+| [SneakPick](https://github.com/taleshenn/sneakPick) | [Abrir projeto](https://sneak-pick-two.vercel.app/) | Landing page conceitual criada com Figma, Photoshop, Illustrator, IA generativa, HTML e CSS. |
+| [Link in Bio, dois temas](https://github.com/taleshenn/linkInBioTwoThemes) | [Abrir projeto](https://link-in-bio-two-themes.vercel.app/) | Interface responsiva com tema claro/escuro, animações e preferências armazenadas no navegador. |
+| [Decodificador de texto](https://github.com/taleshenn/decodificador-de-texto-challenge-alura) | [Abrir projeto](https://decodificador-de-texto-challenge-alura.vercel.app/) | Aplicação responsiva com manipulação do DOM e lógica em JavaScript. |
+
+## Em evolução constante
+
+Este perfil registra parte da minha evolução em tecnologia. Mais do que acumular ferramentas, meu interesse está em entender **como design, conteúdo, código e IA podem trabalhar juntos** para resolver problemas reais.
+
+Se essa combinação também faz sentido para você, conheça meu trabalho em [taleshenn.com.br](https://taleshenn.com.br/) ou escreva para [contato@taleshenn.com.br](mailto:contato@taleshenn.com.br).
